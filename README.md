@@ -2,7 +2,7 @@
 
 A modern hotel booking application built with React, Vite, and Tailwind CSS. This application allows users to browse hotels, view detailed information, and search for their perfect stay.
 ## Live Demo
-[View Live Demo](https://hotel-website-app.vercel.app/hotels)
+[View Live Demo](https://hotel-website-app.vercel.app/)
 
 ## Features
 - 🏨 Browse and search hotels
